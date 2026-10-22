@@ -1,0 +1,10 @@
+2026-10-20 09:00:12 user=alice src_ip=192.168.1.10 event=LOGIN_SUCCESS
+2026-10-20 09:02:45 user=bob src_ip=192.168.1.15 event=LOGIN_FAILURE
+2026-10-20 09:03:10 user=bob src_ip=192.168.1.15 event=LOGIN_FAILURE
+2026-10-20 09:04:01 user=bob src_ip=192.168.1.15 event=LOGIN_FAILURE
+2026-10-20 09:05:22 user=alice src_ip=192.168.1.10 event=LOGOUT
+2026-10-20 09:10:30 user=charlie src_ip=203.0.113.25 event=LOGIN_SUCCESS
+2026-10-20 09:12:08 user=admin src_ip=198.51.100.42 event=LOGIN_FAILURE
+2026-10-20 09:14:55 user=alice src_ip=192.168.1.10 event=PASSWORD_CHANGE
+2026-10-20 09:20:17 user=admin src_ip=198.51.100.42 event=LOGIN_SUCCESS
+2026-10-20 09:25:40 user=charlie src_ip=203.0.113.25 event=LOGOUT
